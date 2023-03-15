@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Collectible
+  - GameScore
+  - GameManager
+  - GameOverPopup
+  - ShowScorePopup
+  - RestartInfoPopup
+  - PlayerChainHead
+  - Obsticle
+  - LevelProgress
+  - LevelScore
+  - LevelUpText
+  - Blocker
+  - CurrentLevelText
+  - NextLevelText
+  - LevelUpPopup
+  - LevelUpPopupButton
+  - Armor
+  - AutoBreaker
+  - PlayerTap
+  - PlayerDontTap
+  - BestScore
+  - FinishLine
+  - PlayerNear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Particle
+  - Gameplay
+  - Bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
